@@ -1,5 +1,5 @@
 # Command-Line-Intermediate-skills
-Small scripts and tools usage to demonstrate to demonstrate terminal skills
+Small scripts and tools usage to demonstrate terminal skills
 
 folders :
 
